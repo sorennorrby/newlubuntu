@@ -8,6 +8,7 @@ Download this file.
 Enter the following two commands in a command terminal:
 
 sudo chmod +x newlubuntu.sh
+
 ./newlubuntu.sh
 
 Then the tools named in this script should start to install on you new work horse.
